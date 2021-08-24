@@ -1,0 +1,3 @@
+This is a sample file. It contains words to be indexed.
+
+To achieve the indexing functionality, we have made use of an inverted index.
